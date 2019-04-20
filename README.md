@@ -1,7 +1,8 @@
-![product_logo](https://d2mxuefqeaa7sj.cloudfront.net/s_6DD6E0146B575E6511BE2FA401896C4D2AA462148DDDD87187579A4495CE0E65_1545499142369_TREKT.png)
+<div align="center">
+	<img width="500" height="350" src="media/scrtr_logo.svg" alt="scrtr_logo">
+</div>
 
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR?ref=badge_shield) [![Netlify Status](https://api.netlify.com/api/v1/badges/fc9532c8-ccd1-4fa7-adc2-dfb1241031fb/deploy-status)](https://app.netlify.com/sites/scrtr/deploys)
 
 # What is SCRTR?
 
@@ -45,11 +46,15 @@ Your app is ready to be deployed!
 *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 
 ## Project Roadmap
-- [x] TradingView Intregration
-- [ ] UI/UX Prototype (App Concept)
-- [ ] Web Prototype
+The SCRTR 0.1 Roadmap
 
-*Roadmap under development…*
+- [x] TradingView Intregration
+- [ ] Product Concept
+- [ ] User Experience Design
+- [ ] User Interface Design
+- [ ] Wrapped Prototype
+- [ ] Development of Prototype
+- [ ] Web Deployment
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR?ref=badge_large)
