@@ -13,7 +13,7 @@ export default class TVChartContainer extends React.PureComponent {
 
     static defaultProps = {
         debug: false,
-        symbol: 'Coinbase:BTC/USD',
+        symbol: 'Binance:BTC/USD',
         interval: '15',
         containerId: 'tv_chart_container',
         libraryPath: '/charting_library/',
@@ -76,11 +76,11 @@ export default class TVChartContainer extends React.PureComponent {
         return (
             <>
                 <div id="tv_chart_container" className='TVChartContainer ' ></div>
-                {/* <div className="tradingview-widget-container"> 
+                {/* <div className="tradingview-widget-container">
                     <div id="tv_chart_container" className='TVChartContainer' ></div>
                      <div className="tradingview-widget-copyright">
 					 <a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener noreferrer" target="_blank">
-					 <span className="blue-text">AAPL chart</span></a> by TradingView</div> 
+					 <span className="blue-text">AAPL chart</span></a> by TradingView</div>
                  </div>  */}
 
             </>

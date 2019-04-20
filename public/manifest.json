@@ -3,7 +3,7 @@
   "name": "The place where your trading comes to new level.",
   "icons": [
     {
-      "src": "favicon.isvg",
+      "src": "favicon.svg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }

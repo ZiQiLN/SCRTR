@@ -43,8 +43,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
-
 ## Project Roadmap
 The SCRTR 0.1 Roadmap
 
@@ -55,6 +53,8 @@ The SCRTR 0.1 Roadmap
 - [ ] Wrapped Prototype
 - [ ] Development of Prototype
 - [ ] Web Deployment
+- [ ] Implementation of Electron
+- [ ] Hybrid App Release
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR?ref=badge_large)

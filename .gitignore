@@ -1,0 +1,16 @@
+# Production & Development Files
+build
+node_modules
+dist
+
+# Editor Configuration
+.vscode
+.vs
+.idea
+
+# Logs & Locks
+*.log
+yarn.lock
+package-lock.json
+/node_modules/
+/.vs/
